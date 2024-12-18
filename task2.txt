@@ -1,0 +1,13 @@
+Jāpapildina šī te pati aplikācija:
+
+Jauni ievades lauki kontaktformā:
+Tēma (jauns lauks - obligāts, dropdown ar vērtībām: "Tehniskais atbalsts", "Pārdošana", "Cits")
+Prioritāte (jauns lauks - obligāts, radio buttons ar vērtībām: "Zema", "Vidēja", "Augsta")
+
+
+Admin pusē:
+Jāpievieno meklēšanas funkcionalitāte pēc e-pasta un vārda
+Jāpievieno filtrēšana pēc tēmas un prioritātes
+Jāpievieno kārtošana pēc datuma (augošā/dilstošā secībā)
+Jāimplementē lapošana (pagination) - 10 ieraksti lapā
+Jāpievieno CSV eksporta funkcionalitāte visiem datiem
